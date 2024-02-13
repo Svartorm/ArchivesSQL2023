@@ -1,0 +1,12 @@
+drop table if exists nexus.employees;
+drop table if exists nexus_it.employees;
+drop table if exists techwave.employees;
+drop table if exists finstar.employees;
+drop table if exists nexus_food.employees;
+drop table if exists guardforce.employees;
+drop table if exists nexus.nexus_relations;
+drop table if exists nexus_it.software_assets;
+drop table if exists techwave.project_milestones;
+drop table if exists finstar.investments;
+drop table if exists nexus_food.products;
+drop table if exists guardforce.incident_reports;
